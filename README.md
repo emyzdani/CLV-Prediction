@@ -19,3 +19,7 @@ In this project, using real retail transaction data from the UK market, customer
 **Business Impact:** Identifying the top 10 customers expected to generate the highest revenue and accurately calculating CLV while incorporating the discount rate (Time Value of Money).
 
 **Technologies:** Python, Pandas, Lifetimes, Matplotlib, Seaborn.
+
+**Dataset:** [Online Retail II](https://archive.ics.uci.edu/dataset/502/online+retail+ii)
+
+**Autor:** [Mostafa](https://www.linkedin.com/in/mostafa-yaazdani/)
